@@ -12,3 +12,7 @@
 * sleep/wake
 * uhd 630 
 * sidecar
+
+
+## warning
+You should set built-in graphic card memory to **64MB** from BIOS.
